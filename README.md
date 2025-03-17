@@ -8,4 +8,5 @@ atualmente estou cursando:
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-
+![mauricio567849
+](https://github-readme-stats.vercel.app/api?username=mauricio567849)
