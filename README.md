@@ -2,7 +2,7 @@ olá mim chamo Mauricio Silva
 
 atualmente estou cursando: 
 
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" border="4px"/>
+ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" border="4px"/> :pushpin:
  
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
