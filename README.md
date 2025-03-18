@@ -10,3 +10,5 @@ atualmente estou cursando:
 
 ![mauricio567849
 ](https://github-readme-stats.vercel.app/api?username=mauricio567849)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
