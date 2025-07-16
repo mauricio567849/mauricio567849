@@ -1,4 +1,6 @@
 ## Hi there 👋
+ sou Mauricio da Silva Cardoso <br>
+ Atualmente estudo Programaçao 
 
 <!--
 **mauricio567849/mauricio567849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
